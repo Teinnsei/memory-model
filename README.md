@@ -1,5 +1,9 @@
 # Awesome references
 
+## Blog
+
+`EN` `Article` [Psychosomatic, Lobotomy, Saw](http://psy-lob-saw.blogspot.com)
+
 ## Mathematics
 
 `EN` `Article` [Mathematics for Computer Science (MIT)](https://mitocw.ups.edu.ec/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
